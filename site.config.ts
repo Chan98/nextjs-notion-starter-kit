@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Chaniii',
 
   // open graph metadata (optional)
-  description: 'Chaniii\' Notion Blog',
+  description: 'Chaniii\' Blog',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
